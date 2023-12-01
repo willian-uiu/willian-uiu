@@ -22,7 +22,7 @@
 <br/>
 
 <a href="https://github.com/willian-uiu" title="Perfil do Will">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willian-uiu&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willian-uiu&theme=algolia&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
