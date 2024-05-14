@@ -6,7 +6,6 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Engenharia de software** na <a href="https://estacio.br">Estácio</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **NODE.JS, BLOCKCHAIN, WEB3, SOLIDITY, POSTGRES**.
 
 <h3>Minhas Skills</h3>
 
