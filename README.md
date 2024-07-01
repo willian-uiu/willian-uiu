@@ -1,33 +1,35 @@
-# Que bom te ver aqui! 😊
+# Olá, sou Willian 👋
 
-![](https://komarev.com/ghpvc/?username=willian-uiu&color=006bed)
+Sou estudante de Engenharia de Software com uma paixão por resolver problemas complexos usando Rust. Aqui você encontrará alguns dos meus projetos e contribuições enquanto aprendo e evoluo como programador.
 
-<h3>Sobre mim</h3>
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagem Principal:** Rust
+- **Ferramentas:** Git, Docker, VSCode
+- **Frameworks:** Rocket, Actix
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Engenharia de software** na <a href="https://estacio.br">Estácio</a>.
+## 🔭 Projetos em Destaque
+- [**Projeto A**](https://github.com/seu-usuario/projeto-a): Descrição curta do projeto A.
+- [**Projeto B**](https://github.com/seu-usuario/projeto-b): Descrição curta do projeto B.
 
-<h3>Minhas Skills</h3>
+## 🌱 Aprendendo Atualmente
+- Desenvolvimento Web com Rust (Rocket, Actix)
+- Contribuições para projetos Open Source
 
-**Aplicações e dados**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/willian-uiu" title="Perfil do Will">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willian-uiu&theme=algolia&show_icons=true" />
-</a>
-
-<h3>Onde me encontrar</h3>
-
+## 📫 Como me encontrar
 [![Linkedin](https://img.shields.io/badge/-williansilvamamede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williansilvamamede/)](https://www.linkedin.com/in/williansilvamamede/)
 [![Gmail Badge](https://img.shields.io/badge/-williansilvamamede@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williansilvamamede@gmail.com)](mailto:williansilvamamede@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/willian-uiu?label=follow&style=social)](https://github.com/willian-uiu)
+
+![Rustacean](https://img.shields.io/badge/Rustacean-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
+“Explorando a arte da programação com eficiência e elegância.” ✨
+
+- [Twitter](https://twitter.com/seu-usuario)
+- [E-mail](mailto:seu-email@example.com)
+
+![Rustacean](https://img.shields.io/badge/Rustacean-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
+“Explorando a arte da programação com eficiência e elegância.” ✨
