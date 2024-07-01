@@ -25,9 +25,6 @@ Sou estudante de Engenharia de Software com uma paixão por resolver problemas c
 
 “Explorando a arte da programação com eficiência e elegância.” ✨
 
-- [Twitter](https://twitter.com/seu-usuario)
-- [E-mail](mailto:seu-email@example.com)
-
 ![Rustacean](https://img.shields.io/badge/Rustacean-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
