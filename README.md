@@ -1,32 +1,28 @@
-# Olá, sou Willian 👋
+# Hello, I'm Willian 👋
 
-Sou estudante de Engenharia de Software com uma paixão por resolver problemas complexos usando Rust. Aqui você encontrará alguns dos meus projetos e contribuições enquanto aprendo e evoluo como programador.
+I'm a Software Engineering student with a passion for solving complex problems using Rust. Here you will find some of my projects and contributions as I learn and evolve as a programmer.
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagem Principal:** Rust
-- **Ferramentas:** Git, Docker, VSCode
-- **Frameworks:** Rocket, Actix
+## 🛠️ Technologies and Tools
+- **Main Language:** Rust
+- **Tools:** Git, Docker, VSCode
+- **Frameworks:** Rocket
 
-## 🔭 Projetos em Destaque
-- [**Projeto A**](https://github.com/seu-usuario/projeto-a): Descrição curta do projeto A.
-- [**Projeto B**](https://github.com/seu-usuario/projeto-b): Descrição curta do projeto B.
+## 🌱 Currently Learning
+- Web development with Rust (Rocket, Actix)
+- Contributions to Open Source projects
 
-## 🌱 Aprendendo Atualmente
-- Desenvolvimento Web com Rust (Rocket, Actix)
-- Contribuições para projetos Open Source
-
-## 📫 Como me encontrar
-[![Linkedin](https://img.shields.io/badge/-williansilvamamede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williansilvamamede/)](https://www.linkedin.com/in/williansilvamamede/)
-[![Gmail Badge](https://img.shields.io/badge/-williansilvamamede@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williansilvamamede@gmail.com)](mailto:williansilvamamede@gmail.com)
+## 📫 How to find me
+[![Linkedin](https://img.shields.io/badge/-williansilvamamede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williansilvamamede/)]( https://www.linkedin.com/in/williansilvamamede/)
+[![Gmail Badge](https://img.shields.io/badge/-williansilvamamede@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williansilvamamede@gmail.com)](mailto: williansilvamamede@gmail.com)
 
 ![Rustacean](https://img.shields.io/badge/Rustacean-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
-“Explorando a arte da programação com eficiência e elegância.” ✨
+“Exploring the art of programming with efficiency and elegance.” ✨
 
 ![Rustacean](https://img.shields.io/badge/Rustacean-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
-“Explorando a arte da programação com eficiência e elegância.” ✨
+“Exploring the art of programming with efficiency and elegance.” ✨
