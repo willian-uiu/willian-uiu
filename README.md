@@ -1,27 +1,29 @@
-# Hello, I'm Willian 👋
+# Willian Mamede - Software Engineer in Training
 
-I'm a Software Engineering student with a passion for solving complex problems using Rust. Here you will find some of my projects and contributions as I learn and evolve as a programmer.
+👋 Hi there! I'm Willian Mamede, a passionate Software Engineering student from Patos, Paraíba, Brazil. I'm deeply interested in fullstack development, particularly using Rust, JavaScript, and PostgreSQL. I'm currently looking for opportunities to apply my skills in innovative projects.
 
-## 🛠️ Technologies and Tools
-- **Main Language:** Rust
-- **Tools:** Git, Docker, VSCode
-- **Frameworks:** Rocket
+## 🛠️ Skills & Tools
+- **Languages:** Rust, Java, JavaScript, HTML5, CSS
+- **Frameworks/Libraries:** Angular, Rocket
+- **Databases:** PostgreSQL
+- **Tools:** Git, Docker, CI/CD
+- **Methodologies:** Agile, Scrum
 
-## 🌱 Currently Learning
-- Web development with Rust (Rocket, Actix)
-- Contributions to Open Source projects
+## 🚀 Projects
 
-## 📫 How to find me
-[![Linkedin](https://img.shields.io/badge/-williansilvamamede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williansilvamamede/)]( https://www.linkedin.com/in/williansilvamamede/)
+## 📜 Certifications
+- **Agile Methodologies** - Applied in project management for efficient task delivery.
+- **Object-Oriented Programming with C#** - Used in developing modular and scalable applications.
+- **Software Development Essentials** - Fundamentals applied in all stages of the development lifecycle.
 
-![Rustacean](https://img.shields.io/badge/Rustacean-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+## 🤝 Contributions & Community
+- Participated in hackathons and coding challenges, consistently placing in the top 10%.
+- Mentor for junior developers, helping them get started with Rust and fullstack development.
 
----
+## 📫 Get in Touch
+- LinkedIn: [linkedin.com/in/williansilvamamede](https://www.linkedin.com/in/williansilvamamede)
+- GitHub: [github.com/willian-uiu](https://github.com/willian-uiu)
+- Email: williansilvamamede@gmail.com
 
-“Exploring the art of programming with efficiency and elegance.” ✨
-
-![Rustacean](https://img.shields.io/badge/Rustacean-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
----
-
-“Exploring the art of programming with efficiency and elegance.” ✨
+## 🚀 Let's Collaborate!
+I'm always open to collaborating on interesting projects, especially those that involve cutting-edge technologies. Feel free to reach out if you'd like to work together or just want to chat about tech!
