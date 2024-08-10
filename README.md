@@ -4,7 +4,7 @@
 
 ## 🛠️ Skills & Tools
 - **Languages:** Rust, Java, JavaScript, HTML5, CSS
-- **Frameworks/Libraries:** Angular, Rocket
+- **Frameworks/Libraries:** Angular, Rocket, springboot, bootstrap
 - **Databases:** PostgreSQL
 - **Tools:** Git, Docker, CI/CD
 - **Methodologies:** Agile, Scrum
