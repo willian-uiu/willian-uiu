@@ -3,10 +3,10 @@
 👋 Hi there! I'm Willian Mamede, a passionate Software Engineering student from Patos, Paraíba, Brazil. I'm deeply interested in fullstack development, particularly using Rust, JavaScript, and PostgreSQL. I'm currently looking for opportunities to apply my skills in innovative projects.
 
 ## 🛠️ Skills & Tools
-- **Languages:** Rust, Java, JavaScript, HTML5, CSS, C#
-- **Frameworks/Libraries:** Angular, Rocket, .NET, springboot, bootstrap
-- **Databases:** PostgreSQL
-- **Tools:** Git, Docker, CI/CD
+- **Languages:** 
+- **Frameworks/Libraries:** 
+- **Databases:** 
+- **Tools:** 
 - **Methodologies:** Agile, Scrum
 
 ## 🚀 Projects
