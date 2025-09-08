@@ -1,4 +1,4 @@
-# Olá, sou o Willian! 👋
+# Olá, sou o Willian!
 
 Sou um **Estudante de Engenharia de Software** com uma paixão em transformar dados em insights e construir soluções tecnológicas que impulsionam o futuro. Minha jornada profissional me permite atuar como **Analista de Dados** e **Analista de BI**, onde utilizo **Power BI** e **Excel** para otimizar processos e decisões estratégicas.
 
